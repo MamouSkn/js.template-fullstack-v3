@@ -4,7 +4,7 @@ const fs = require("fs");
 // Ajout de multer
 const multer = require("multer");
 
-// Ajout de uuid
+/// Ajout de uuid
 const { v4: uuidv4 } = require("uuid");
 
 // On définit la destination de stockage de nos fichiers
